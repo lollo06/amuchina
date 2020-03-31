@@ -1,0 +1,2 @@
+# amuchina
+homeassistantcasamia
